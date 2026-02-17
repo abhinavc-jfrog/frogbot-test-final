@@ -2,8 +2,8 @@
   "name": "frogbot-test",
   "version": "1.0.1",
   "dependencies": {
-    "lodash": "4.17.15",
-    "axios": "0.18.0",
-    "minimist": "1.2.0"
+    "lodash": "4.17.23",
+    "axios": "1.13.5",
+    "minimist": "1.2.6"
   }
 }
